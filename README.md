@@ -5,3 +5,5 @@ and CSS (uptil flexbox). I'm going to type in any difficulties i faced and how i
 solved them in this README.md file.
 
 1. I am stuck in formatting the style for the hero-text, I am not able to get the main heading and the content and the sign-up button in the same column and push the image to the side of the page.
+
+    Found the solution to the problem, I created a div container along the whole text part of the hero text leaving out the image part, then i applied the display:flex property. Justify-content: center and align-items: center. 
