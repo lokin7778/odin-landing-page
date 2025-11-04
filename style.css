@@ -68,3 +68,9 @@ button {
     gap: 8px;
     flex-basis: 450px;
 }
+
+.one-main-content-title{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
