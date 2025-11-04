@@ -76,3 +76,10 @@ button {
     text-align: center;
     padding: 48px;
 }
+
+.one-main-content-content{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    text-wrap: wrap;
+}
