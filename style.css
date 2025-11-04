@@ -36,8 +36,26 @@ a {
     text-decoration: none;
 }
 
+
 .hero-text .title{
     font-size: 48px;
     color: #F9F8FA;
     font-weight: 900;
+    text-wrap: wrap;
 }
+
+.hero-text .title-text{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button {
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #3882f6;
+    color: #E5E7EB;
+}
+
