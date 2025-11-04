@@ -74,7 +74,7 @@ button {
     color: #1f2937;
     font-weight: 900;
     text-align: center;
-    padding: 48px;
+    padding-top: 48px;
 }
 
 .one-main-content-content{
@@ -82,4 +82,10 @@ button {
     flex: 1;
     justify-content: center;
     text-wrap: wrap;
+    padding: 48px;
+}
+
+img {
+    border: 4px solid #3882f6 ;
+    border-radius: 10px;
 }
