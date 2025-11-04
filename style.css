@@ -10,3 +10,9 @@
 .header{
     background-color: #1f2937;
 }
+
+.navigation-bar{
+    font-size: 24px;
+    color: #F9FAF8;
+    display: flex;;
+}
