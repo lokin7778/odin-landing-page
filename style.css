@@ -95,3 +95,12 @@ button {
     max-width: 200px;
     text-align: center;
 }
+
+.quote-main-content{
+    background-color: #E5E7Eb;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+    text-align: center;
+    padding: 64px;
+}
