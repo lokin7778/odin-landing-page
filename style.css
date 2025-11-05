@@ -116,4 +116,12 @@ button {
     margin: 64px;
     padding: 36px;
     width: fit-content;
+    border-radius: 10px;
+    background-color: #3882f6;
+    color: #E5E7EB;
+}
+
+.action-button {
+    border: 2px solid #F9F8FA;
+    width: 125px;
 }
